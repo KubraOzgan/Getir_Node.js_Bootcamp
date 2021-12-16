@@ -1,0 +1,2 @@
+GET http://localhost:3000/todos/get
+Authorization: : Bearer f71817f245a7f234e6dd161ef40efad9c04e96bb1b159504a8630b93c6a977a209c1b19a92444e458ccb71ccb8e49881cb446c23ff8e98c62461dd442350cb32
